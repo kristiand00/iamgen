@@ -1,4 +1,4 @@
-module aimgen
+module github.com/kristiand00/iamgen
 
 go 1.24.2
 

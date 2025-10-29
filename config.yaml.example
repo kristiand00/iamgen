@@ -1,0 +1,15 @@
+privatebin_url: https://privatebin.net
+expire: 1week
+burn: 0
+opendiscussion: 0
+format: plaintext
+custom_message: "Here are the new AWS credentials: "
+username_prefix: ""
+user_path: ""
+password_length: 20
+password_reset_required: false
+create_console_login: true
+create_access_key: true
+region: "us-east-1"
+compression: none
+
